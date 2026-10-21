@@ -16,6 +16,8 @@ with sign-off log, an incident-response sheet (data leaks + gen-AI scams), and a
 - Buy on Getly: https://www.getly.store/product/small-business-ai-use-policy-safe-ai-playbook-employee-ai-rules-data-tiers-incid
 - Buy on SellApp: https://digitaltoolkitstore.sell.app/product/small-business-ai-use-policy-safe-ai-playbook-employee-ai-rules-data-tiers-incident-playbooks
 
+Watch the 81-second demo walkthrough: https://youtu.be/rJ9OP8IeM8Y
+
 ## The problem
 
 Your employees already use AI — and almost certainly without rules. SBE Council
